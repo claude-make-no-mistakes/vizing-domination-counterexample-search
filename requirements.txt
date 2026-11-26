@@ -1,0 +1,2 @@
+networkx==3.3
+python-sat==1.9.dev25
